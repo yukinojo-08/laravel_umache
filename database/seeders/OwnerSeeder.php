@@ -23,7 +23,7 @@ class OwnerSeeder extends Seeder
                 'created_at' => '2021/01/01 11:11:11',
             ],
             [
-                'name' => 'tes2',
+                'name' => 'test2',
                 'email' => 'test2@test.com',
                 'password' => Hash::make('password123'),
                 'created_at' => '2021/01/01 11:11:11',
